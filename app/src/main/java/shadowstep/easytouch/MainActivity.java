@@ -38,4 +38,5 @@ public class MainActivity extends AppCompatActivity implements View.OnTouchListe
     public void DisconnectFromServer(View view) {
         touch_client.CloseConnection();
     }
+    //Just comment added
 }
